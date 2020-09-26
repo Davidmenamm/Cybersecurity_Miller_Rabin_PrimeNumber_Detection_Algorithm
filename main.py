@@ -4,10 +4,10 @@
 import decimal  # to handle very big numbers
 
 # initial values
-n = 105604871
+n = 1056048717
 m = 0
 # limit num of calculations, gives the precision
-limit = 10000
+limit = 200000
 
 # find m from the equation:  n-1 = 2^k*m
 k = 0
